@@ -8,5 +8,5 @@ Permanent identifiers for research outputs, theses, and datasets hosted by the *
 
 ## Maintainers
 * @psru-ir-admin
-* @<ใส่_username_ผู้ดูแลคนที่_1>
-* @<ใส่_username_ผู้ดูแลคนที่_2>
+* @khomgun-source
+* @yanatcharagun-art
